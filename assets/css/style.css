@@ -161,6 +161,7 @@ body {
         position: static;
         width: 200px;
         grid-column: 1;
+        grid-row: 1;
     }
 }
 
