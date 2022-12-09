@@ -283,7 +283,7 @@ body {
         box-sizing: border-box;
     }
 
-    .cartao--destaque .cartao__titulo {
+    .cartao--recentes .cartao__titulo {
         grid-column: auto;
     }
 
