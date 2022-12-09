@@ -160,6 +160,7 @@ body {
     .menu-lateral {
         position: static;
         width: 200px;
+        grid-column: 1;
     }
 }
 
